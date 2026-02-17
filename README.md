@@ -1,17 +1,20 @@
-## two-stage-semiconductor-defect-detection-edgeguardAI_phase2
+#  two-stage-semiconductor-defect-detection-edgeguardAI_phase2
 ## Inference file/Prediction code - https://www.kaggle.com/code/surjini/hackathon-test-dataset-prediction
 ## metrics 
 
 Total Samples: 296
+
 Accuracy: 0.3310810810810811
+
 Precision: 0.3718901286178791
+
 Recall: 0.3310810810810811
 
 ## confusion matrix
 
 <img width="1000" height="800" alt="confusion_matrix" src="https://github.com/user-attachments/assets/353bc1b5-aa68-4577-a7dc-c7f5b483d49f" />
 
-# code
+## code
 ```
 import os
 import numpy as np
@@ -131,5 +134,6 @@ with open("prediction_log.txt", "w") as f:
     f.write(f"Total Samples: {len(true_labels)}\n")
     f.write(f"Accuracy: {accuracy}\n")
     f.write(f"Precision: {precision}\n")
+```
     f.write(f"Recall: {recall}\n")
 ```
