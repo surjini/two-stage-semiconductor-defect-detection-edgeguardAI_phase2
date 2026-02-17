@@ -1,0 +1,383 @@
+7.7s 1 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+7.7s 2 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+7.7s 3 0.00s - to python to disable frozen modules.
+7.7s 4 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+8.4s 5 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+8.4s 6 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+8.4s 7 0.00s - to python to disable frozen modules.
+8.4s 8 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+10.5s 9 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_015.png
+10.5s 10 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_027.png
+10.5s 11 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_029.png
+10.5s 12 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_048.png
+10.5s 13 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_031.png
+10.5s 14 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_004.png
+10.5s 15 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_025.png
+10.5s 16 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_018.png
+10.5s 17 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_019.png
+10.5s 18 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_005.png
+10.5s 19 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_007.png
+10.5s 20 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_032.png
+10.5s 21 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_010.png
+10.5s 22 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_014.png
+10.5s 23 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_006.png
+10.5s 24 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_046.png
+10.5s 25 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_040.png
+10.5s 26 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_036.png
+10.5s 27 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_008.png
+10.5s 28 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_042.png
+10.5s 29 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_016.png
+10.5s 30 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_037.png
+10.5s 31 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_050.png
+10.5s 32 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_043.png
+10.5s 33 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_024.png
+10.5s 34 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_003.png
+10.5s 35 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_017.png
+10.5s 36 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_028.png
+10.5s 37 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_013.png
+10.5s 38 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_047.png
+10.5s 39 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_045.png
+10.5s 40 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_035.png
+10.5s 41 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_009.png
+10.5s 42 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_023.png
+10.5s 43 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_030.png
+10.5s 44 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_022.png
+10.5s 45 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_033.png
+10.5s 46 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_044.png
+10.5s 47 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_049.png
+10.5s 48 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_034.png
+10.5s 49 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_021.png
+10.5s 50 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_020.png
+10.5s 51 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_038.png
+10.5s 52 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_026.png
+10.5s 53 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_002.png
+10.5s 54 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_039.png
+10.5s 55 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_011.png
+10.5s 56 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_001.png
+10.5s 57 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_012.png
+10.5s 58 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Other/OTH_041.png
+10.5s 59 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_024.png
+10.5s 60 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_008.png
+10.5s 61 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_006.png
+10.5s 62 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_022.png
+10.5s 63 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_016.png
+10.5s 64 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_004.png
+10.5s 65 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_030.png
+10.5s 66 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_019.png
+10.5s 67 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_018.png
+10.5s 68 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_002.png
+10.5s 69 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_029.png
+10.5s 70 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_021.png
+10.5s 71 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_028.png
+10.5s 72 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_014.png
+10.5s 73 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_027.png
+10.5s 74 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_007.png
+10.5s 75 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_011.png
+10.5s 76 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_012.png
+10.5s 77 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_013.png
+10.5s 78 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_020.png
+10.5s 79 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_001.png
+10.5s 80 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_023.png
+10.5s 81 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_017.png
+10.5s 82 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_009.png
+10.5s 83 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_005.png
+10.5s 84 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_025.png
+10.5s 85 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_010.png
+10.5s 86 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_026.png
+10.5s 87 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_015.png
+10.5s 88 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/CMP/CMP_003.png
+10.5s 89 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_014.png
+10.5s 90 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_005.png
+10.5s 91 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_001.png
+10.5s 92 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_002.png
+10.5s 93 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_009.png
+10.5s 94 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_015.png
+10.5s 95 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_017.png
+10.5s 96 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_004.png
+10.5s 97 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_025.png
+10.5s 98 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_011.png
+10.5s 99 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_021.png
+10.5s 100 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_019.png
+10.5s 101 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_030.png
+10.5s 102 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_023.png
+10.5s 103 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_018.png
+10.5s 104 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_012.png
+10.5s 105 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_006.png
+10.5s 106 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_028.png
+10.5s 107 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_026.png
+10.5s 108 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_027.png
+10.5s 109 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_024.png
+10.5s 110 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_008.png
+10.5s 111 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_020.png
+10.5s 112 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_016.png
+10.5s 113 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_007.png
+10.5s 114 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_003.png
+10.5s 115 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_010.png
+10.5s 116 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_029.png
+10.5s 117 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_022.png
+10.5s 118 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/LER/LER_013.png
+10.5s 119 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_010.png
+10.5s 120 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_028.png
+10.5s 121 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_005.png
+10.5s 122 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_017.png
+10.5s 123 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_013.png
+10.5s 124 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_029.png
+10.5s 125 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_022.png
+10.5s 126 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_015.png
+10.5s 127 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_026.png
+10.5s 128 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_002.png
+10.5s 129 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_027.png
+10.5s 130 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_030.png
+10.5s 131 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_018.png
+10.5s 132 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_020.png
+10.5s 133 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_025.png
+10.5s 134 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_009.png
+10.5s 135 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_007.png
+10.5s 136 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_023.png
+10.5s 137 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_016.png
+10.5s 138 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_006.png
+10.5s 139 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_012.png
+10.5s 140 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_014.png
+10.5s 141 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_003.png
+10.5s 142 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_021.png
+10.5s 143 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_019.png
+10.5s 144 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_011.png
+10.5s 145 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_001.png
+10.5s 146 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_008.png
+10.5s 147 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_024.png
+10.5s 148 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Particle/PRT_004.png
+10.5s 149 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_023.png
+10.5s 150 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_020.png
+10.5s 151 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_013.png
+10.5s 152 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_028.png
+10.5s 153 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_030.png
+10.5s 154 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_001.png
+10.5s 155 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_004.png
+10.5s 156 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_031.png
+10.5s 157 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_022.png
+10.5s 158 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_014.png
+10.5s 159 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_006.png
+10.5s 160 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_029.png
+10.5s 161 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_026.png
+10.5s 162 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_027.png
+10.5s 163 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_003.png
+10.5s 164 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_019.png
+10.5s 165 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_032.png
+10.5s 166 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_015.png
+10.5s 167 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_021.png
+10.5s 168 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_005.png
+10.5s 169 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_009.png
+10.5s 170 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_010.png
+10.5s 171 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_024.png
+10.5s 172 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_016.png
+10.5s 173 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_012.png
+10.5s 174 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_017.png
+10.5s 175 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_011.png
+10.5s 176 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_025.png
+10.5s 177 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_007.png
+10.5s 178 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_008.png
+10.5s 179 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_002.png
+10.5s 180 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Bridge/BRG_018.png
+10.5s 181 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_029.png
+10.5s 182 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_014.png
+10.5s 183 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_030.png
+10.5s 184 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_021.png
+10.5s 185 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_032.png
+10.5s 186 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_005.png
+10.5s 187 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_013.png
+10.5s 188 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_025.png
+10.5s 189 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_027.png
+10.5s 190 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_023.png
+10.5s 191 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_004.png
+10.5s 192 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_003.png
+10.5s 193 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_019.png
+10.5s 194 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_011.png
+10.5s 195 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_001.png
+10.5s 196 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_026.png
+10.5s 197 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_010.png
+10.5s 198 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_033.png
+10.5s 199 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_006.png
+10.5s 200 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_018.png
+10.5s 201 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_031.png
+10.5s 202 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_024.png
+10.5s 203 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_015.png
+10.5s 204 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_022.png
+10.5s 205 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_007.png
+10.5s 206 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_012.png
+10.5s 207 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_017.png
+10.5s 208 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_028.png
+10.5s 209 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_002.png
+10.5s 210 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_016.png
+10.5s 211 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_020.png
+10.5s 212 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_009.png
+10.5s 213 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Clean/CLN_008.png
+10.5s 214 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_010.png
+10.5s 215 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_017.png
+10.5s 216 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_008.png
+10.5s 217 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_015.png
+10.5s 218 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_002.png
+10.5s 219 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_027.png
+10.5s 220 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_003.png
+10.5s 221 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_026.png
+10.5s 222 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_011.png
+10.5s 223 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_016.png
+10.5s 224 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_021.png
+10.5s 225 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_025.png
+10.5s 226 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_020.png
+10.5s 227 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_004.png
+10.5s 228 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_029.png
+10.5s 229 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_014.png
+10.5s 230 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_001.png
+10.5s 231 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_024.png
+10.5s 232 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_030.png
+10.5s 233 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_019.png
+10.5s 234 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_013.png
+10.5s 235 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_006.png
+10.5s 236 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_009.png
+10.5s 237 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_028.png
+10.5s 238 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_022.png
+10.5s 239 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_005.png
+10.5s 240 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_018.png
+10.5s 241 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_007.png
+10.5s 242 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_023.png
+10.5s 243 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Open/OPN_012.png
+10.5s 244 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_016.png
+10.5s 245 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_012.png
+10.5s 246 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_027.png
+10.5s 247 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_002.png
+10.5s 248 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_008.png
+10.5s 249 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_029.png
+10.5s 250 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_013.png
+10.5s 251 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_010.png
+10.5s 252 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_026.png
+10.5s 253 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_001.png
+10.5s 254 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_021.png
+10.5s 255 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_005.png
+10.5s 256 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_028.png
+10.5s 257 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_025.png
+10.5s 258 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_003.png
+10.5s 259 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_004.png
+10.5s 260 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_014.png
+10.5s 261 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_017.png
+10.5s 262 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_018.png
+10.5s 263 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_023.png
+10.5s 264 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_009.png
+10.5s 265 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_015.png
+10.5s 266 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_024.png
+10.5s 267 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_020.png
+10.5s 268 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_030.png
+10.5s 269 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_019.png
+10.5s 270 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_022.png
+10.5s 271 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_007.png
+10.5s 272 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_011.png
+10.5s 273 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/VIA/VIA_006.png
+10.5s 274 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_010.png
+10.5s 275 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_006.png
+10.5s 276 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_018.png
+10.5s 277 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_021.png
+10.5s 278 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_023.png
+10.5s 279 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_003.png
+10.5s 280 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_001.png
+10.5s 281 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_017.png
+10.5s 282 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_027.png
+10.5s 283 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_011.png
+10.5s 284 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_019.png
+10.5s 285 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_028.png
+10.5s 286 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_031.png
+10.5s 287 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_025.png
+10.5s 288 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_012.png
+10.5s 289 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_002.png
+10.5s 290 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_029.png
+10.5s 291 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_014.png
+10.5s 292 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_007.png
+10.5s 293 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_026.png
+10.5s 294 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_004.png
+10.5s 295 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_008.png
+10.5s 296 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_030.png
+10.5s 297 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_022.png
+10.5s 298 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_005.png
+10.5s 299 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_015.png
+10.5s 300 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_020.png
+10.5s 301 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_024.png
+10.5s 302 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_013.png
+10.5s 303 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_009.png
+10.5s 304 /kaggle/input/datasets/surjini/hackathon-test-dataset/hackathon_test_dataset/Crack/CRK_016.png
+10.5s 305 /kaggle/input/models/surjini/two-stage-semiconductor-defect-detection-model/keras/default/1/stage2_best_model.keras
+10.5s 306 /kaggle/input/models/surjini/two-stage-semiconductor-defect-detection-model/keras/default/1/stage1_best_model.keras
+13.0s 307 2026-02-17 10:16:05.453672: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:467] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+13.0s 308 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+13.0s 309 E0000 00:00:1771323365.645739      24 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+13.0s 310 E0000 00:00:1771323365.702058      24 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+13.0s 311 W0000 00:00:1771323366.188212      24 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+13.0s 312 W0000 00:00:1771323366.188258      24 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+13.0s 313 W0000 00:00:1771323366.188261      24 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+13.0s 314 W0000 00:00:1771323366.188264      24 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+13.2s 315 2026-02-17 10:16:05.453672: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:467] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+13.2s 316 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+13.2s 317 E0000 00:00:1771323365.645739      24 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+13.2s 318 E0000 00:00:1771323365.702058      24 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+13.2s 319 W0000 00:00:1771323366.188212      24 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+13.2s 320 W0000 00:00:1771323366.188258      24 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+13.2s 321 W0000 00:00:1771323366.188261      24 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+13.2s 322 W0000 00:00:1771323366.188264      24 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+13.2s 323 
+13.2s 324 2026-02-17 10:16:05.453672: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:467] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+13.2s 325 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+13.2s 326 E0000 00:00:1771323365.645739      24 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+13.2s 327 E0000 00:00:1771323365.702058      24 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+13.2s 328 W0000 00:00:1771323366.188212      24 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+13.2s 329 W0000 00:00:1771323366.188258      24 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+13.2s 330 W0000 00:00:1771323366.188261      24 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+13.2s 331 W0000 00:00:1771323366.188264      24 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+27.0s 332 I0000 00:00:1771323380.199938      24 gpu_device.cc:2019] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 15511 MB memory:  -> device: 0, name: Tesla P100-PCIE-16GB, pci bus id: 0000:00:04.0, compute capability: 6.0
+27.2s 333 I0000 00:00:1771323380.199938      24 gpu_device.cc:2019] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 15511 MB memory:  -> device: 0, name: Tesla P100-PCIE-16GB, pci bus id: 0000:00:04.0, compute capability: 6.0
+27.2s 334 
+27.2s 335 I0000 00:00:1771323380.199938      24 gpu_device.cc:2019] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 15511 MB memory:  -> device: 0, name: Tesla P100-PCIE-16GB, pci bus id: 0000:00:04.0, compute capability: 6.0
+37.1s 336 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+37.1s 337 I0000 00:00:1771323390.317040      65 service.cc:152] XLA service 0x7d3cb0004a90 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+37.1s 338 I0000 00:00:1771323390.317080      65 service.cc:160]   StreamExecutor device (0): Tesla P100-PCIE-16GB, Compute Capability 6.0
+37.3s 339 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+37.3s 340 I0000 00:00:1771323390.317040      65 service.cc:152] XLA service 0x7d3cb0004a90 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+37.3s 341 I0000 00:00:1771323390.317080      65 service.cc:160]   StreamExecutor device (0): Tesla P100-PCIE-16GB, Compute Capability 6.0
+37.3s 342 
+37.3s 343 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+37.3s 344 I0000 00:00:1771323390.317040      65 service.cc:152] XLA service 0x7d3cb0004a90 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+37.3s 345 I0000 00:00:1771323390.317080      65 service.cc:160]   StreamExecutor device (0): Tesla P100-PCIE-16GB, Compute Capability 6.0
+38.8s 346 I0000 00:00:1771323392.033072      65 cuda_dnn.cc:529] Loaded cuDNN version 91002
+39.0s 347 I0000 00:00:1771323392.033072      65 cuda_dnn.cc:529] Loaded cuDNN version 91002
+39.0s 348 
+39.0s 349 I0000 00:00:1771323392.033072      65 cuda_dnn.cc:529] Loaded cuDNN version 91002
+46.4s 350 I0000 00:00:1771323399.620767      65 device_compiler.h:188] Compiled cluster using XLA!  This line is logged at most once for the lifetime of the process.
+46.6s 351 I0000 00:00:1771323399.620767      65 device_compiler.h:188] Compiled cluster using XLA!  This line is logged at most once for the lifetime of the process.
+46.6s 352 
+46.6s 353 I0000 00:00:1771323399.620767      65 device_compiler.h:188] Compiled cluster using XLA!  This line is logged at most once for the lifetime of the process.
+102.8s 354 Total Samples: 296
+102.8s 355 Accuracy: 0.3310810810810811
+102.8s 356 Precision: 0.3718901286178791
+102.8s 357 Recall: 0.3310810810810811
+102.8s 358 
+102.8s 359 Sample Predictions:
+102.8s 360 True: other | Pred: other
+102.8s 361 True: other | Pred: scratches
+102.8s 362 True: other | Pred: scratches
+102.8s 363 True: other | Pred: scratches
+102.8s 364 True: other | Pred: other
+102.8s 365 True: other | Pred: opens
+102.8s 366 True: other | Pred: other
+102.8s 367 True: other | Pred: other
+102.8s 368 True: other | Pred: scratches
+102.8s 369 True: other | Pred: other
+108.1s 370 /usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\|'
+108.1s 371 cells[i][c] = re.sub('\\\\\|', '|', cell)
+108.3s 372 /usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\_'
+108.3s 373 text = re.sub(r'_', '\_', text) # Escape underscores in display text
+109.0s 374 /usr/local/lib/python3.12/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+109.0s 375 warn(
+109.0s 376 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+109.3s 377 [NbConvertApp] Writing 104950 bytes to __notebook__.ipynb
+111.8s 378 /usr/local/lib/python3.12/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+111.8s 379 warn(
+111.9s 380 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+112.7s 381 [NbConvertApp] Support files will be in __results___files/
+112.7s 382 [NbConvertApp] Making directory __results___files
+112.7s 383 [NbConvertApp] Writing 325515 bytes to __results__.html
