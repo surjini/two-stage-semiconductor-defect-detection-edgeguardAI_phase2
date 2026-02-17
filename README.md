@@ -1,5 +1,9 @@
 ## two-stage-semiconductor-defect-detection-edgeguardAI_phase2
-## Program DataPath - https://www.kaggle.com/code/surjini/hackathon-test-dataset-prediction
+## Inference file/Prediction code - https://www.kaggle.com/code/surjini/hackathon-test-dataset-prediction
+## confusion matrix
+
+<img width="1000" height="800" alt="confusion_matrix" src="https://github.com/user-attachments/assets/353bc1b5-aa68-4577-a7dc-c7f5b483d49f" />
+
 # code
 ```
 import os
