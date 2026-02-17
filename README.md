@@ -134,6 +134,7 @@ with open("prediction_log.txt", "w") as f:
     f.write(f"Total Samples: {len(true_labels)}\n")
     f.write(f"Accuracy: {accuracy}\n")
     f.write(f"Precision: {precision}\n")
-```
     f.write(f"Recall: {recall}\n")
+
+
 ```
